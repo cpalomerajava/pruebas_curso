@@ -1,1 +1,20 @@
 sugeerencias al camino
+ <HTML>
+
+<HEAD>
+
+<P>Esto es un parrafo con informacion 
+
+<TITLE>Un Titulo para el  turno </TITLE>
+
+</HEAD>
+
+<BODY>
+
+<!-- Aqui va todo lo chachi -->
+
+<H1>Otro t&iacute;tulo, esta vez m&aacute;s largo. </H1>
+
+<P> <IMG SRC= "./felix.gif "ALIGN= "MIDDLE " ALT= "EL Gato Felix ">Hoola.
+
+<P>Esto es un parrafo con informacion 
