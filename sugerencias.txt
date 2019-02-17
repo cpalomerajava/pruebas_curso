@@ -18,5 +18,3 @@ sugeerencias al camino
 <H1>Otro t&iacute;tulo, esta vez m&aacute;s largo. </H1>
 
 <P> <IMG SRC= "./felix.gif "ALIGN= "MIDDLE " ALT= "EL Gato Felix ">Hoola.
-
-<P>Esto es un parrafo con informacion 
